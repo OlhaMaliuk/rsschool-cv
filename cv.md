@@ -53,7 +53,8 @@ Petro Mohyla Black Sea National University, Faculty of Law
 ```
 for (const checkboxButton of checkboxButtons){
         if(checkboxButton.checked){
-            Total += parseInt(checkboxButton.value);}
+            Total += parseInt(checkboxButton.value);
+}
 ```
 
 <hr ----------------------/>
